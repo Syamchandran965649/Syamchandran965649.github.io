@@ -1,0 +1,235 @@
+.header
+{
+    width:100%;
+    height:85px;
+    background-color:#3b5998;
+}
+body
+{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo
+{
+    width:50%;
+    padding-top: 30px;
+    float:left;
+}
+.login
+{
+    float:left;
+    width:50%;
+    padding-top: 11px;
+}
+.logo-text
+{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label
+{
+    font-size: 11px;
+    color:white;
+}
+.login-controls
+{
+    padding-left: 120px;
+}
+#space
+{
+    padding-left: 10px;
+}
+.forgotten
+{
+    color:#9cb4d8;
+    text-decoration: none;
+    font-size: 11px;
+}
+.loginbutton
+{
+    border:1px solid;
+    border-color:#29487d;
+    background-color: #4267b2;
+    color: white;
+    cursor: pointer;
+}
+.loginbutton:hover
+{
+    background-color: #29487d;
+}
+.left
+{
+    float:left;
+    width:50%;
+    height:700px;;
+}
+.right
+{
+    float:left;
+    height:700px;
+    width:35%;
+    padding-top: 0px;
+    padding-left:100px ;
+}
+.sentence
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 160px;
+    font-weight: 600;
+    color:#29487d;
+}
+.main
+{
+    width: 100%;
+    height:700px;
+    padding-top:0px;
+    background: linear-gradient(white,#d3d8e8);
+}
+.img
+{
+    margin-top: 1px;
+    padding-left: 160px;
+    width: 572px;
+    height: 330px;
+    cursor: pointer;
+}
+.createaccount
+{
+    font-size: 41px;
+    margin-bottom: 11px;
+}
+.input
+{
+    border-radius: 5px;
+    height:34px;
+    width:208px;
+    margin-right: 10px;
+    margin-bottom: 16px;
+    padding-left:8px;
+    border-color: grey;
+    border:2px rgb(197, 193, 193) solid;
+    cursor: pointer;
+}
+.input::-webkit-input-placeholder {
+    font-weight: lighter;
+    font-size: large;
+    text-align: left;
+    
+  }
+.quote
+{
+    font-size: 22px;
+    margin-bottom:20px ;
+}
+.inputmob
+{
+    width:444px;
+    height:34px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    padding-left:8px;
+    border:2px rgb(197, 193, 193) solid;
+    cursor: pointer;
+}
+.inputmob::-webkit-input-placeholder 
+{
+    font-weight: lighter;
+    font-size: large;
+    text-align: left;
+}
+.createsectionlabel
+{
+    font-size:20px;
+    font-weight: 600;
+    color: grey;
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+.birthdayinputs
+{
+    width:75px;
+    height: 32px;
+    border:2px rgb(197, 193, 193) solid;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.radiobuttons
+{
+    margin-right: 34px;
+    font-size: 20px;
+}
+#id
+{
+    margin-top: 16px;
+    cursor: pointer;
+}
+.termsandpolicy
+{
+    box-sizing: border-box;
+    padding-right: 125px;
+    font-size: 14px;
+    color: rgb(121 115 115);
+}
+.signup
+{
+    margin-left: 0px;
+    border-radius: 5px;
+    border:2px grey solid;
+    width:240px;
+    height:45px;
+    background-color:rgb(87, 196, 87);
+    color:white;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}
+.footer
+{
+    width:100%;
+    height:100px;
+    background-color:white;
+    padding-top: 40px;
+}
+#underline
+{
+    background-color:  rgb(121 115 115);
+    margin-top: 11px;
+    width: 85%;
+    height:1px;
+    margin-left: 9px;
+}
+.languages
+{
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.languagediv
+{
+    margin-left: 104px;
+}
+.facebook
+{
+    text-decoration: none;
+    color: rgb(78, 63, 63);
+    font-size: 15px;
+}
+.us
+{
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 30px;
+}
+.footerinfo
+{
+    
+    text-decoration: none;
+    font-size: 14px;
+    margin-left: 10px;
+}
